@@ -1,2 +1,2 @@
 # WestWorld
-Online westetn themed clothing store
+Westetn themed clothing store
