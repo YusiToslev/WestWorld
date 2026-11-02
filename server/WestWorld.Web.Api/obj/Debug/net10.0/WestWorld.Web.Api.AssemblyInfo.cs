@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WestWorld.Web.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec8700f835c60d75fe15378235a4170f84951113")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fc0b1c9eb5e4209be9ab5b53e39e01926d1f9d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("WestWorld.Web.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WestWorld.Web.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
