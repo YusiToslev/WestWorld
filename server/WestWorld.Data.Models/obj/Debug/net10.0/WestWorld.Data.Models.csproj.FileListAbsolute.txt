@@ -1,0 +1,13 @@
+C:\Users\SUS\Desktop\WestWorld\server\WestWorld.Data.Models\bin\Debug\net10.0\WestWorld.Data.Models.deps.json
+C:\Users\SUS\Desktop\WestWorld\server\WestWorld.Data.Models\bin\Debug\net10.0\WestWorld.Data.Models.dll
+C:\Users\SUS\Desktop\WestWorld\server\WestWorld.Data.Models\bin\Debug\net10.0\WestWorld.Data.Models.pdb
+C:\Users\SUS\Desktop\WestWorld\server\WestWorld.Data.Models\obj\Debug\net10.0\WestWorld.Data.Models.csproj.AssemblyReference.cache
+C:\Users\SUS\Desktop\WestWorld\server\WestWorld.Data.Models\obj\Debug\net10.0\WestWorld.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUS\Desktop\WestWorld\server\WestWorld.Data.Models\obj\Debug\net10.0\WestWorld.Data.Models.AssemblyInfoInputs.cache
+C:\Users\SUS\Desktop\WestWorld\server\WestWorld.Data.Models\obj\Debug\net10.0\WestWorld.Data.Models.AssemblyInfo.cs
+C:\Users\SUS\Desktop\WestWorld\server\WestWorld.Data.Models\obj\Debug\net10.0\WestWorld.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\SUS\Desktop\WestWorld\server\WestWorld.Data.Models\obj\Debug\net10.0\WestWorld.Data.Models.sourcelink.json
+C:\Users\SUS\Desktop\WestWorld\server\WestWorld.Data.Models\obj\Debug\net10.0\WestWorld.Data.Models.dll
+C:\Users\SUS\Desktop\WestWorld\server\WestWorld.Data.Models\obj\Debug\net10.0\refint\WestWorld.Data.Models.dll
+C:\Users\SUS\Desktop\WestWorld\server\WestWorld.Data.Models\obj\Debug\net10.0\WestWorld.Data.Models.pdb
+C:\Users\SUS\Desktop\WestWorld\server\WestWorld.Data.Models\obj\Debug\net10.0\ref\WestWorld.Data.Models.dll

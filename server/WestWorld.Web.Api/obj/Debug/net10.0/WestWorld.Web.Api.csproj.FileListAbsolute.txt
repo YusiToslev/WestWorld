@@ -1,0 +1,9 @@
+C:\Users\SUS\Desktop\WestWorld\server\WestWorld.Web.Api\obj\Debug\net10.0\WestWorld.Web.Api.csproj.AssemblyReference.cache
+C:\Users\SUS\Desktop\WestWorld\server\WestWorld.Web.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\SUS\Desktop\WestWorld\server\WestWorld.Web.Api\obj\Debug\net10.0\WestWorld.Web.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUS\Desktop\WestWorld\server\WestWorld.Web.Api\obj\Debug\net10.0\WestWorld.Web.Api.AssemblyInfoInputs.cache
+C:\Users\SUS\Desktop\WestWorld\server\WestWorld.Web.Api\obj\Debug\net10.0\WestWorld.Web.Api.AssemblyInfo.cs
+C:\Users\SUS\Desktop\WestWorld\server\WestWorld.Web.Api\obj\Debug\net10.0\WestWorld.Web.Api.csproj.CoreCompileInputs.cache
+C:\Users\SUS\Desktop\WestWorld\server\WestWorld.Web.Api\obj\Debug\net10.0\WestWorld.Web.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SUS\Desktop\WestWorld\server\WestWorld.Web.Api\obj\Debug\net10.0\WestWorld.Web.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SUS\Desktop\WestWorld\server\WestWorld.Web.Api\obj\Debug\net10.0\WestWorld.Web.Api.sourcelink.json
