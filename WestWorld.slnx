@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="WestWorld.Core/WestWorld.Core.csproj" />
+  <Project Path="WestWorld.Data/WestWorld.Data.csproj" />
+  <Project Path="WestWorld.Tests/WestWorld.Tests.csproj" />
+  <Project Path="WestWorld.WebAPI/WestWorld.WebAPI.csproj" />
+</Solution>
