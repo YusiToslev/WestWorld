@@ -1479,19 +1479,6 @@
         "build": {
           "buildTransitive/net8.0/_._": {}
         }
-      },
-      "WestWorld.Data.Models/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v10.0",
-        "dependencies": {
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "10.0.14"
-        },
-        "compile": {
-          "bin/placeholder/WestWorld.Data.Models.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/WestWorld.Data.Models.dll": {}
-        }
       }
     }
   },
@@ -4162,11 +4149,6 @@
         "system.security.cryptography.protecteddata.nuspec",
         "useSharedDesignerContext.txt"
       ]
-    },
-    "WestWorld.Data.Models/1.0.0": {
-      "type": "project",
-      "path": "../WestWorld.Data.Models/WestWorld.Data.Models.csproj",
-      "msbuildProject": "../WestWorld.Data.Models/WestWorld.Data.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4174,8 +4156,7 @@
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 10.0.14",
       "Microsoft.EntityFrameworkCore.SqlServer >= 10.0.14",
       "Microsoft.EntityFrameworkCore.Tools >= 10.0.14",
-      "System.Security.Cryptography.Pkcs >= 10.0.14",
-      "WestWorld.Data.Models >= 1.0.0"
+      "System.Security.Cryptography.Pkcs >= 10.0.14"
     ]
   },
   "packageFolders": {
@@ -4202,11 +4183,7 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "projectReferences": {
-            "C:\\Users\\SUS\\Desktop\\WestWorld\\server\\WestWorld.Data.Models\\WestWorld.Data.Models.csproj": {
-              "projectPath": "C:\\Users\\SUS\\Desktop\\WestWorld\\server\\WestWorld.Data.Models\\WestWorld.Data.Models.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

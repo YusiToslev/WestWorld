@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WestWorld.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fc0b1c9eb5e4209be9ab5b53e39e01926d1f9d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05ed3dd2f61fda614ed11f1fe8b30fb2ce04c1f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("WestWorld.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WestWorld.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
